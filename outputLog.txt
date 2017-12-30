@@ -1,0 +1,736 @@
+Couldn't find EXACT match for constituency Andaman & Nicobar Islands
+Couldn't find EXACT match for constituency Zahirabad
+Matched Araku with Araku EXACTLY
+Matched Khammam with Khammam EXACTLY
+Matched Medak with Medak EXACTLY
+Matched Anakapalli with Anakapalli EXACTLY
+Matched Bhongir with Bhongir EXACTLY
+Matched Chevella with Chevella EXACTLY
+Matched Srikakulam with Srikakulam EXACTLY
+Matched Eluru with Eluru EXACTLY
+Matched Secunderabad with Secunderabad EXACTLY
+Couldn't find EXACT match for constituency Peddapalle
+Matched Rajahmundry with Rajahmundry EXACTLY
+Matched Nalgonda with Nalgonda EXACTLY
+Matched Narsapuram with Narsapuram EXACTLY
+Matched Nagarkurnool with Nagarkurnool EXACTLY
+Couldn't find EXACT match for constituency Amlapuram
+Matched Narasaraopet with Narasaraopet EXACTLY
+Matched Machilipatnam with Machilipatnam EXACTLY
+Matched Guntur with Guntur EXACTLY
+Matched Ongole with Ongole EXACTLY
+Matched Bapatla with Bapatla EXACTLY
+Matched Kurnool with Kurnool EXACTLY
+Matched Karimnagar with Karimnagar EXACTLY
+Matched Nizamabad with Nizamabad EXACTLY
+Matched Vizianagaram with Vizianagaram EXACTLY
+Matched Kakinada with Kakinada EXACTLY
+Matched Adilabad with Adilabad EXACTLY
+Matched Rajampet with Rajampet EXACTLY
+Matched Nellore with Nellore EXACTLY
+Matched Anantapur with Anantapur EXACTLY
+Couldn't find EXACT match for constituency Kadapa
+Matched Nandyal with Nandyal EXACTLY
+Matched Mahabubabad with Mahabubabad EXACTLY
+Matched Chittoor with Chittoor EXACTLY
+Couldn't find EXACT match for constituency Tirupati
+Matched Hindupur with Hindupur EXACTLY
+Couldn't find EXACT match for constituency Mahbubnagar
+Matched Vijayawada with Vijayawada EXACTLY
+Matched Visakhapatnam with Visakhapatnam EXACTLY
+Matched Warangal with Warangal EXACTLY
+Matched Hyderabad with Hyderabad EXACTLY
+Couldn't find EXACT match for constituency Malkajgiri
+Couldn't find EXACT match for constituency Arunachal West
+Couldn't find EXACT match for constituency Arunachal East
+Matched Lakhimpur with Lakhimpur EXACTLY
+Matched Dibrugarh with Dibrugarh EXACTLY
+Matched Jorhat with Jorhat EXACTLY
+Matched Tezpur with Tezpur EXACTLY
+Matched Kaliabor with Kaliabor EXACTLY
+Matched Mangaldoi with Mangaldoi EXACTLY
+Couldn't find EXACT match for constituency Nagaon
+Matched Autonomous District with Autonomous District EXACTLY
+Matched Dhubri with Dhubri EXACTLY
+Matched Karimganj with Karimganj EXACTLY
+Matched Silchar with Silchar EXACTLY
+Matched Kokrajhar with Kokrajhar EXACTLY
+Couldn't find EXACT match for constituency Guwahati
+Matched Barpeta with Barpeta EXACTLY
+Matched Muzaffarpur with Muzaffarpur EXACTLY
+Matched Valmiki Nagar with Valmiki Nagar EXACTLY
+Matched Araria with Araria EXACTLY
+Matched Gopalganj with Gopalganj EXACTLY
+Matched Siwan with Siwan EXACTLY
+Matched Vaishali with Vaishali EXACTLY
+Matched Jhanjharpur with Jhanjharpur EXACTLY
+Matched Supaul with Supaul EXACTLY
+Couldn't find EXACT match for constituency Pashchim Champaran
+Matched Madhubani with Madhubani EXACTLY
+Matched Kishanganj with Kishanganj EXACTLY
+Matched Darbhanga with Darbhanga EXACTLY
+Matched Purnia with Purnia EXACTLY
+Matched Maharajganj with Maharajganj EXACTLY
+Matched Madhepura with Madhepura EXACTLY
+Matched Begusarai with Begusarai EXACTLY
+Matched Arrah with Arrah EXACTLY
+Matched Sasaram with Sasaram EXACTLY
+Matched Nawada with Nawada EXACTLY
+Matched Banka with Banka EXACTLY
+Matched Nalanda with Nalanda EXACTLY
+Matched Katihar with Katihar EXACTLY
+Matched Samastipur with Samastipur EXACTLY
+Matched Khagaria with Khagaria EXACTLY
+Matched Pataliputra with Pataliputra EXACTLY
+Matched Buxar with Buxar EXACTLY
+Matched Patna Sahib with Patna Sahib EXACTLY
+Matched Bhagalpur with Bhagalpur EXACTLY
+Matched Munger with Munger EXACTLY
+Couldn't find EXACT match for constituency Purba Champaran
+Matched Sheohar with Sheohar EXACTLY
+Matched Sitamarhi with Sitamarhi EXACTLY
+Couldn't find EXACT match for constituency Ujiapur
+Matched Hajipur with Hajipur EXACTLY
+Matched Karakat with Karakat EXACTLY
+Couldn't find EXACT match for constituency Saran (Chhapra)
+Matched Jamui with Jamui EXACTLY
+Matched Aurangabad with Aurangabad EXACTLY
+Matched Gaya with Gaya EXACTLY
+Matched Jahanabad with Jahanabad EXACTLY
+Matched Janjgir-Champa with Janjgir-Champa EXACTLY
+Matched Raipur with Raipur EXACTLY
+Couldn't find EXACT match for constituency Surguja
+Matched Bilaspur with Bilaspur EXACTLY
+Matched Rajnandgaon with Rajnandgaon EXACTLY
+Matched Durg with Durg EXACTLY
+Matched Mahasamund with Mahasamund EXACTLY
+Matched Raigarh with Raigarh EXACTLY
+Matched Kanker with Kanker EXACTLY
+Matched Bastar with Bastar EXACTLY
+Matched Korba with Korba EXACTLY
+Matched Chandigarh with Chandigarh EXACTLY
+Couldn't find EXACT match for constituency Daman & Diu
+Matched West Delhi with West Delhi EXACTLY
+Matched North West Delhi with North West Delhi EXACTLY
+Matched Chandni Chowk with Chandni Chowk EXACTLY
+Matched North East Delhi with North East Delhi EXACTLY
+Matched South Delhi with South Delhi EXACTLY
+Matched East Delhi with East Delhi EXACTLY
+Matched New Delhi with New Delhi EXACTLY
+Matched Dadra & Nagar Haveli with Dadra & Nagar Haveli EXACTLY
+Matched South Goa with South Goa EXACTLY
+Matched North Goa with North Goa EXACTLY
+Matched Bardoli with Bardoli EXACTLY
+Matched Junagadh with Junagadh EXACTLY
+Matched Surat with Surat EXACTLY
+Matched Kheda with Kheda EXACTLY
+Matched Ahmedabad West with Ahmedabad West EXACTLY
+Matched Jamnagar with Jamnagar EXACTLY
+Couldn't find EXACT match for constituency Sabar Kantha
+Couldn't find EXACT match for constituency Banas Kantha
+Matched Patan with Patan EXACTLY
+Couldn't find EXACT match for constituency Panch Mahals
+Matched Dohad with Dohad EXACTLY
+Couldn't find EXACT match for constituency Vadodara
+Matched Anand with Anand EXACTLY
+Matched Amreli with Amreli EXACTLY
+Couldn't find EXACT match for constituency Ahmadabad (East)
+Matched Rajkot with Rajkot EXACTLY
+Matched Surendranagar with Surendranagar EXACTLY
+Couldn't find EXACT match for constituency Navsari
+Couldn't find EXACT match for constituency Bharuch
+Matched Chhota Udaipur with Chhota Udaipur EXACTLY
+Matched Porbandar with Porbandar EXACTLY
+Matched Valsad with Valsad EXACTLY
+Matched Gandhinagar with Gandhinagar EXACTLY
+Couldn't find EXACT match for constituency Mahesana
+Matched Bhavnagar with Bhavnagar EXACTLY
+Matched Hamirpur with Hamirpur EXACTLY
+Matched Kangra with Kangra EXACTLY
+Matched Shimla with Shimla EXACTLY
+Matched Mandi with Mandi EXACTLY
+Matched Ambala with Ambala EXACTLY
+Couldn't find EXACT match for constituency Krukshetra
+Matched Sirsa with Sirsa EXACTLY
+Matched Karnal with Karnal EXACTLY
+Matched Sonipat with Sonipat EXACTLY
+Matched Hisar with Hisar EXACTLY
+Matched Rohtak with Rohtak EXACTLY
+Couldn't find EXACT match for constituency Bhiwani - Mahendragarh
+Matched Gurgaon with Gurgaon EXACTLY
+Matched Faridabad with Faridabad EXACTLY
+Matched Jamshedpur with Jamshedpur EXACTLY
+Matched Singhbhum with Singhbhum EXACTLY
+Matched Rajmahal with Rajmahal EXACTLY
+Matched Dumka with Dumka EXACTLY
+Matched Godda with Godda EXACTLY
+Couldn't find EXACT match for constituency Palamu
+Matched Hazaribagh with Hazaribagh EXACTLY
+Matched Dhanbad with Dhanbad EXACTLY
+Matched Kodarma with Kodarma EXACTLY
+Matched Lohardaga with Lohardaga EXACTLY
+Matched Khunti with Khunti EXACTLY
+Matched Chatra with Chatra EXACTLY
+Matched Ranchi with Ranchi EXACTLY
+Matched Giridih with Giridih EXACTLY
+Couldn't find EXACT match for constituency Leh (Ladakh)
+Couldn't find EXACT match for constituency Jammu
+Couldn't find EXACT match for constituency Srinagar
+Couldn't find EXACT match for constituency Anantnag
+Couldn't find EXACT match for constituency Baramula
+Couldn't find EXACT match for constituency Udhampur
+Couldn't find EXACT match for constituency 
+Matched Gulbarga with GULBARGA EXACTLY
+Matched Bijapur with BIJAPUR EXACTLY
+Matched Chikkodi with CHIKKODI EXACTLY
+Matched Raichur with RAICHUR EXACTLY
+Matched Koppal with KOPPAL EXACTLY
+Matched Haveri with HAVERI EXACTLY
+Matched Davanagere with DAVANAGERE EXACTLY
+Couldn't find EXACT match for constituency Chikkaballapura
+Couldn't find EXACT match for constituency Udupi Chikmagalur
+Matched Tumkur with TUMKUR EXACTLY
+Matched Kolar with KOLAR EXACTLY
+Matched Bangalore Rural with BANGALORE RURAL EXACTLY
+Matched Dharwad with DHARWAD EXACTLY
+Matched Bangalore North with BANGALORE NORTH EXACTLY
+Matched Dakshina Kannada with DAKSHINA KANNADA EXACTLY
+Matched Mysore with MYSORE EXACTLY
+Couldn't find EXACT match for constituency Chamrajnagar
+Matched Mandya with MANDYA EXACTLY
+Matched Bellary with BELLARY EXACTLY
+Couldn't find EXACT match for constituency Chitradurga
+Matched Bidar with BIDAR EXACTLY
+Matched Uttara Kannada with UTTARA KANNADA EXACTLY
+Matched Shimoga with SHIMOGA EXACTLY
+Matched Hassan with HASSAN EXACTLY
+Couldn't find EXACT match for constituency Belgaum
+Matched Bangalore South with BANGALORE SOUTH EXACTLY
+Matched Bangalore Central with BANGALORE CENTRAL EXACTLY
+Couldn't find EXACT match for constituency Bagalkot
+Matched Malappuram with Malappuram EXACTLY
+Matched Pathanamthitta with Pathanamthitta EXACTLY
+Matched Mavelikkara with Mavelikkara EXACTLY
+Couldn't find EXACT match for constituency Thiruvananthapuram
+Couldn't find EXACT match for constituency Palakkad
+Couldn't find EXACT match for constituency Thrissur
+Matched Alathur with Alathur EXACTLY
+Matched Kasaragod with Kasaragod EXACTLY
+Matched Attingal with Attingal EXACTLY
+Couldn't find EXACT match for constituency Vadakara
+Matched Kozhikode with Kozhikode EXACTLY
+Matched Kannur with Kannur EXACTLY
+Matched Chalakudy with Chalakudy EXACTLY
+Matched Idukki with Idukki EXACTLY
+Matched Alappuzha with Alappuzha EXACTLY
+Matched Kottayam with Kottayam EXACTLY
+Matched Kollam with Kollam EXACTLY
+Matched Ernakulam with Ernakulam EXACTLY
+Matched Wayanad with WAYANAD EXACTLY
+Matched Ponnani with Ponnani EXACTLY
+Matched Inner Manipur with Inner Manipur EXACTLY
+Couldn't find EXACT match for constituency Outer Manipur
+Matched Bhind with Bhind EXACTLY
+Matched Balaghat with Balaghat EXACTLY
+Matched Hoshangabad with Hoshangabad EXACTLY
+Matched Dhar with Dhar EXACTLY
+Matched Indore with Indore EXACTLY
+Matched Gwalior with Gwalior EXACTLY
+Matched Sidhi with Sidhi EXACTLY
+Matched Rajgarh with Rajgarh EXACTLY
+Matched Sagar with Sagar EXACTLY
+Matched Damoh with Damoh EXACTLY
+Matched Shahdol with Shahdol EXACTLY
+Matched Dewas with Dewas EXACTLY
+Matched Ujjain with Ujjain EXACTLY
+Matched Bhopal with Bhopal EXACTLY
+Matched Vidisha with Vidisha EXACTLY
+Matched Ratlam with Ratlam EXACTLY
+Matched Rewa with Rewa EXACTLY
+Matched Satna with Satna EXACTLY
+Couldn't find EXACT match for constituency Mandsaur
+Matched Guna with Guna EXACTLY
+Matched Chhindwara with Chhindwara EXACTLY
+Matched Betul with Betul EXACTLY
+Matched Khargone with Khargone EXACTLY
+Matched Jabalpur with Jabalpur EXACTLY
+Matched Mandla with Mandla EXACTLY
+Matched Morena with Morena EXACTLY
+Matched Tikamgarh with Tikamgarh EXACTLY
+Matched Khajuraho with Khajuraho EXACTLY
+Matched Khandwa with Khandwa EXACTLY
+Matched Tura with Tura EXACTLY
+Matched Shillong with Shillong EXACTLY
+Couldn't find EXACT match for constituency Buldana
+Matched Madha with Madha EXACTLY
+Matched Satara with Satara EXACTLY
+Matched Jalgaon with Jalgaon EXACTLY
+Matched Akola with Akola EXACTLY
+Matched Sangli with Sangli EXACTLY
+Matched Solapur with Solapur EXACTLY
+Matched Amravati with Amravati EXACTLY
+Matched Ramtek with Ramtek EXACTLY
+Matched Nandurbar with Nandurbar EXACTLY
+Couldn't find EXACT match for constituency Bhandara - Gondiya
+Matched Wardha with Wardha EXACTLY
+Matched Shirur with Shirur EXACTLY
+Matched Beed with Beed EXACTLY
+Matched Maval with Maval EXACTLY
+Matched Parbhani with Parbhani EXACTLY
+Couldn't find EXACT match for constituency Raigarh
+Matched Osmanabad with Osmanabad EXACTLY
+Matched Hatkanangle with Hatkanangle EXACTLY
+Matched Dhule with Dhule EXACTLY
+Couldn't find EXACT match for constituency Garhchiroli - Chimur
+Matched Raver with Raver EXACTLY
+Couldn't find EXACT match for constituency Biwandi
+Matched Dindori with Dindori EXACTLY
+Matched Jalna with Jalna EXACTLY
+Couldn't find EXACT match for constituency Aurangabad
+Matched Chandrapur with Chandrapur EXACTLY
+Matched Nashik with Nashik EXACTLY
+Matched Shirdi with Shirdi EXACTLY
+Matched Hingoli with Hingoli EXACTLY
+Matched Ahmednagar with Ahmednagar EXACTLY
+Matched Palghar with Palghar EXACTLY
+Matched Latur with Latur EXACTLY
+Matched Baramati with Baramati EXACTLY
+Couldn't find EXACT match for constituency Ratnagiri - Sindhudurg
+Matched Kolhapur with Kolhapur EXACTLY
+Matched Thane with Thane EXACTLY
+Matched Mumbai North with Mumbai North EXACTLY
+Matched Mumbai North-West with Mumbai North-West EXACTLY
+Matched Mumbai North-East with Mumbai North-East EXACTLY
+Matched Mumbai North-Central with Mumbai North-Central EXACTLY
+Matched Mumbai South with Mumbai South EXACTLY
+Matched Mumbai South-Central with Mumbai South-Central EXACTLY
+Matched Kalyan with Kalyan EXACTLY
+Matched Pune with Pune EXACTLY
+Matched Nanded with Nanded EXACTLY
+Couldn't find EXACT match for constituency Yavatmal - Washim
+Matched Nagpur with Nagpur EXACTLY
+Couldn't find EXACT match for constituency Mizoram
+Couldn't find EXACT match for constituency Nagaland
+Matched Bhadrak with Bhadrak EXACTLY
+Couldn't find EXACT match for constituency Jajapur
+Matched Sambalpur with Sambalpur EXACTLY
+Couldn't find EXACT match for constituency Baleshwar
+Couldn't find EXACT match for constituency Kendujhar
+Matched Mayurbhanj with Mayurbhanj EXACTLY
+Matched Sundargarh with Sundargarh EXACTLY
+Matched Bargarh with Bargarh EXACTLY
+Matched Dhenkanal with Dhenkanal EXACTLY
+Matched Bolangir with Bolangir EXACTLY
+Matched Kalahandi with Kalahandi EXACTLY
+Matched Kandhamal with Kandhamal EXACTLY
+Matched Kendrapara with Kendrapara EXACTLY
+Matched Cuttack with Cuttack EXACTLY
+Matched Bhubaneswar with Bhubaneswar EXACTLY
+Matched Aska with Aska EXACTLY
+Matched Jagatsinghpur with Jagatsinghpur EXACTLY
+Couldn't find EXACT match for constituency Nabarangapur
+Matched Koraput with Koraput EXACTLY
+Matched Puri with Puri EXACTLY
+Couldn't find EXACT match for constituency Berhampur.
+Matched Jalandhar with Jalandhar EXACTLY
+Matched Hoshiarpur with Hoshiarpur EXACTLY
+Matched Fatehgarh Sahib with Fatehgarh Sahib EXACTLY
+Couldn't find EXACT match for constituency Firozpur
+Matched Patiala with Patiala EXACTLY
+Matched Bathinda with Bathinda EXACTLY
+Matched Gurdaspur with Gurdaspur EXACTLY
+Matched Amritsar with Amritsar EXACTLY
+Couldn't find EXACT match for constituency Khadoor Sahib
+Matched Anandpur Sahib with Anandpur Sahib EXACTLY
+Matched Sangrur with Sangrur EXACTLY
+Matched Ludhiana with Ludhiana EXACTLY
+Matched Faridkot with Faridkot EXACTLY
+Couldn't find EXACT match for constituency Puducherry
+Matched Churu with Churu EXACTLY
+Matched Bikaner with Bikaner EXACTLY
+Couldn't find EXACT match for constituency Jhunjhunun
+Matched Alwar with Alwar EXACTLY
+Matched Jodhpur with Jodhpur EXACTLY
+Matched Sikar with Sikar EXACTLY
+Matched Nagaur with Nagaur EXACTLY
+Couldn't find EXACT match for constituency Tonk - Sawai Madhopur
+Matched Bharatpur with Bharatpur EXACTLY
+Matched Barmer with Barmer EXACTLY
+Matched Ajmer with Ajmer EXACTLY
+Couldn't find EXACT match for constituency Karauli - Dhaulpur
+Couldn't find EXACT match for constituency Jhalawar - Baran
+Matched Rajsamand with Rajsamand EXACTLY
+Matched Jalore with Jalore EXACTLY
+Matched Bhilwara with Bhilwara EXACTLY
+Matched Kota with Kota EXACTLY
+Matched Pali with Pali EXACTLY
+Matched Ganganagar with Ganganagar EXACTLY
+Matched Dausa with Dausa EXACTLY
+Couldn't find EXACT match for constituency Chittaurgarh
+Matched Jaipur with Jaipur EXACTLY
+Matched Banswara with Banswara EXACTLY
+Matched Udaipur with Udaipur EXACTLY
+Matched Jaipur Rural with Jaipur Rural EXACTLY
+Couldn't find EXACT match for constituency Sikkim
+Matched Erode with Erode EXACTLY
+Couldn't find EXACT match for constituency Tenkasi
+Matched Tirunelveli with Tirunelveli EXACTLY
+Couldn't find EXACT match for constituency Kanniyakumari
+Matched Coimbatore with Coimbatore EXACTLY
+Couldn't find EXACT match for constituency Mayiladuthurai
+Matched Perambalur with Perambalur EXACTLY
+Matched Dindigul with Dindigul EXACTLY
+Matched Arakkonam with Arakkonam EXACTLY
+Couldn't find EXACT match for constituency Chennai South
+Matched Krishnagiri with Krishnagiri EXACTLY
+Matched Arani with Arani EXACTLY
+Matched Tiruvannamalai with Tiruvannamalai EXACTLY
+Matched Sriperumbudur with Sriperumbudur EXACTLY
+Matched Vellore with Vellore EXACTLY
+Matched Kancheepuram with Kancheepuram EXACTLY
+Matched Kallakurichi with Kallakurichi EXACTLY
+Matched Nilgiris with Nilgiris EXACTLY
+Matched Chidambaram with Chidambaram EXACTLY
+Couldn't find EXACT match for constituency Chennai North
+Couldn't find EXACT match for constituency Chennai Central
+Couldn't find EXACT match for constituency Thoothukkudi
+Couldn't find EXACT match for constituency Nagappattinam
+Matched Tiruvallur with Tiruvallur EXACTLY
+Matched Viluppuram with Viluppuram EXACTLY
+Matched Cuddalore with Cuddalore EXACTLY
+Couldn't find EXACT match for constituency Shivaganga
+Matched Theni with Theni EXACTLY
+Couldn't find EXACT match for constituency Ramanathapuram
+Matched Namakkal with Namakkal EXACTLY
+Matched Thanjavur with Thanjavur EXACTLY
+Matched Tiruchirappalli with Tiruchirappalli EXACTLY
+Matched Pollachi with Pollachi EXACTLY
+Matched Karur with Karur EXACTLY
+Matched Dharmapuri with Dharmapuri EXACTLY
+Matched Madurai with Madurai EXACTLY
+Couldn't find EXACT match for constituency Virudunagar
+Matched Tiruppur with Tiruppur EXACTLY
+Matched Salem with Salem EXACTLY
+Matched Tripura East with Tripura East EXACTLY
+Matched Tripura West with Tripura West EXACTLY
+Matched Almora with Almora EXACTLY
+Matched Hardwar with Hardwar EXACTLY
+Couldn't find EXACT match for constituency Tehri Garhwal
+Couldn't find EXACT match for constituency Garhwal
+Couldn't find EXACT match for constituency Nainital - Udhamsingh Nagar
+Matched Saharanpur with Saharanpur EXACTLY
+Matched Kairana with Kairana EXACTLY
+Matched Nagina with Nagina EXACTLY
+Matched Muzaffarnagar with Muzaffarnagar EXACTLY
+Matched Baghpat with Baghpat EXACTLY
+Matched Amroha with Amroha EXACTLY
+Matched Sambhal with Sambhal EXACTLY
+Matched Meerut with Meerut EXACTLY
+Matched Lalganj with Lalganj EXACTLY
+Matched Jalaun with Jalaun EXACTLY
+Matched Rampur with Rampur EXACTLY
+Matched Ghaziabad with Ghaziabad EXACTLY
+Matched Pilibhit with Pilibhit EXACTLY
+Matched Bulandshahr with Bulandshahr EXACTLY
+Matched Kheri with Kheri EXACTLY
+Matched Bareilly with Bareilly EXACTLY
+Matched Aonla with Aonla EXACTLY
+Couldn't find EXACT match for constituency Budaun
+Matched Shahjahanpur with Shahjahanpur EXACTLY
+Matched Bahraich with Bahraich EXACTLY
+Matched Aligarh with Aligarh EXACTLY
+Matched Dhaurahra with Dhaurahra EXACTLY
+Matched Etah with Etah EXACTLY
+Matched Mathura with Mathura EXACTLY
+Matched Farrukhabad with Farrukhabad EXACTLY
+Matched Hardoi with Hardoi EXACTLY
+Matched Hathras with Hathras EXACTLY
+Couldn't find EXACT match for constituency Domriaganj
+Matched Sitapur with Sitapur EXACTLY
+Matched Firozabad with Firozabad EXACTLY
+Couldn't find EXACT match for constituency Maharajganj
+Matched Mainpuri with Mainpuri EXACTLY
+Couldn't find EXACT match for constituency Kaisarganj
+Matched Gonda with Gonda EXACTLY
+Matched Misrikh with Misrikh EXACTLY
+Matched Barabanki with Barabanki EXACTLY
+Matched Kushi Nagar with Kushi Nagar EXACTLY
+Matched Fatehpur Sikri with Fatehpur sikri EXACTLY
+Matched Azamgarh with Azamgarh EXACTLY
+Matched Bansgaon with Bansgaon EXACTLY
+Matched Amethi with Amethi EXACTLY
+Couldn't find EXACT match for constituency Akbarpur
+Matched Rae Bareli with Rae bareli EXACTLY
+Matched Mohanlalganj with Mohanlalganj EXACTLY
+Matched Deoria with Deoria EXACTLY
+Matched Sant Kabir Nagar with Sant kabir Nagar EXACTLY
+Matched Faizabad with Faizabad EXACTLY
+Matched Etawah with Etawah EXACTLY
+Matched Sultanpur with Sultanpur EXACTLY
+Matched Salempur with Salempur EXACTLY
+Matched Ghosi with Ghosi EXACTLY
+Matched Chandauli with Chandauli EXACTLY
+Matched Allahabad with Allahabad EXACTLY
+Matched Mirzapur with Mirzapur EXACTLY
+Matched Robertsganj with Robertsganj EXACTLY
+Matched Fatehpur with Fatehpur EXACTLY
+Matched Jaunpur with Jaunpur EXACTLY
+Matched Pratapgarh with Pratapgarh EXACTLY
+Couldn't find EXACT match for constituency Hamirpur
+Matched Kaushambi with Kaushambi EXACTLY
+Matched Ballia with Ballia EXACTLY
+Matched Jhansi with Jhansi EXACTLY
+Matched Ghazipur with Ghazipur EXACTLY
+Matched Machhlishahr with Machhlishahr EXACTLY
+Matched Phulpur with Phulpur EXACTLY
+Couldn't find EXACT match for constituency Sant Ravi Das Nagar (Bhadohi)
+Matched Ambedkar Nagar with Ambedkar Nagar EXACTLY
+Matched Banda with Banda EXACTLY
+Matched Kanpur with Kanpur EXACTLY
+Matched Unnao with Unnao EXACTLY
+Matched Kannauj with Kannauj EXACTLY
+Matched Lucknow with Lucknow EXACTLY
+Matched Varanasi with Varanasi EXACTLY
+Matched Gorakhpur with Gorakhpur EXACTLY
+Matched Basti with Basti EXACTLY
+Matched Shrawasti with Shrawasti EXACTLY
+Matched Agra with Agra EXACTLY
+Couldn't find EXACT match for constituency Gautam Buddha Nagar
+Matched Bijnor with Bijnor EXACTLY
+Matched Moradabad with Moradabad EXACTLY
+Couldn't find EXACT match for constituency Darjiling
+Couldn't find EXACT match for constituency Arambag
+Matched Barasat with Barasat EXACTLY
+Couldn't find EXACT match for constituency Medinipur
+Couldn't find EXACT match for constituency Tamluk
+Couldn't find EXACT match for constituency Murshidabad
+Couldn't find EXACT match for constituency Krishnanagar
+Couldn't find EXACT match for constituency Birbhum
+Couldn't find EXACT match for constituency Bolpur
+Couldn't find EXACT match for constituency Barddhaman - Durgapur
+Couldn't find EXACT match for constituency Puruliya
+Couldn't find EXACT match for constituency Barddhaman Purba
+Couldn't find EXACT match for constituency Bankura
+Couldn't find EXACT match for constituency Asansol
+Couldn't find EXACT match for constituency Ranaghat
+Couldn't find EXACT match for constituency Bishnupur
+Couldn't find EXACT match for constituency Jangipur
+Couldn't find EXACT match for constituency Balurghat
+Couldn't find EXACT match for constituency Maldah Uttar
+Couldn't find EXACT match for constituency Kolkata Uttar
+Couldn't find EXACT match for constituency Jhargram
+Couldn't find EXACT match for constituency Kolkata Dakshin
+Couldn't find EXACT match for constituency Uluberiya
+Matched Mathurapur with Mathurapur EXACTLY
+Couldn't find EXACT match for constituency Jaynagar
+Matched Diamond Harbour with Diamond Harbour EXACTLY
+Couldn't find EXACT match for constituency Kanthi
+Matched Basirhat with Basirhat EXACTLY
+Couldn't find EXACT match for constituency Bangaon
+Couldn't find EXACT match for constituency Koch Bihar
+Couldn't find EXACT match for constituency Alipurduars
+Couldn't find EXACT match for constituency Jalpaiguri
+Couldn't find EXACT match for constituency Barakpur
+Couldn't find EXACT match for constituency Haora
+Matched Jadavpur with Jadavpur EXACTLY
+Couldn't find EXACT match for constituency Hugli
+Couldn't find EXACT match for constituency Shrirampur
+Couldn't find EXACT match for constituency Baharampur
+Couldn't find EXACT match for constituency Maldah Dakshin
+Couldn't find EXACT match for constituency Raiganj
+Couldn't find EXACT match for constituency Ghatal
+Matched Dum Dum with Dum Dum EXACTLY
+Couldn't find EXACT match for constituency Kachchh
+Couldn't find EXACT match for constituency Lakshadweep
+Matched Akbarpur with Akabarpur INEXACTLY with dist = 1 
+Matched Amlapuram with Amalapuram INEXACTLY with dist = 1 
+Matched Arambag with Arambagh INEXACTLY with dist = 1 
+Matched Vadakara with Badagara INEXACTLY with dist = 2 
+Matched Budaun with Badaun INEXACTLY with dist = 1 
+Matched Bagalkot with BAGALKOTE INEXACTLY with dist = 1 
+Minimum distance is too large. D = 5. S1 = Nagaon S2 = Balasore 
+Matched Banas Kantha with Banaskantha INEXACTLY with dist = 1 
+Minimum distance is too large. D = 3. S1 = Haora S2 = Baroda 
+Minimum distance is too large. D = 4. S1 = Barakpur S2 = Barrackpore 
+Matched Belgaum with BELAGAUM INEXACTLY with dist = 1 
+Matched Berhampur. with Berhampur INEXACTLY with dist = 1 
+Minimum distance is too large. D = 4. S1 = Bharuch S2 = Bhadohi 
+Matched Bhandara - Gondiya with Bhandara-Gondiya INEXACTLY with dist = 2 
+Matched Biwandi with Bhiwandi INEXACTLY with dist = 1 
+Matched Bhiwani - Mahendragarh with Bhiwani-Mahendragarh INEXACTLY with dist = 2 
+Minimum distance is too large. D = 4. S1 = Bharuch S2 = Broach 
+Matched Buldana with Buldhana INEXACTLY with dist = 1 
+Minimum distance is too large. D = 4. S1 = Garhwal S2 = Burdwan 
+Minimum distance is too large. D = 7. S1 = Chennai South S2 = Calcutta South 
+Matched Chamrajnagar with CHAMARAJANAGAR INEXACTLY with dist = 2 
+Matched Chikkaballapura with CHIKKABALLAPUR INEXACTLY with dist = 1 
+Matched Chittaurgarh with Chittorgarh INEXACTLY with dist = 2 
+Matched Chitradurga with CHIYTRADURGA INEXACTLY with dist = 1 
+Minimum distance is too large. D = 4. S1 = Kadapa S2 = Cuddapah 
+Minimum distance is too large. D = 3. S1 = Daman & Diu S2 = Daman And Diu 
+Matched Domriaganj with Domariyaganj INEXACTLY with dist = 2 
+Matched Firozpur with Ferozpur INEXACTLY with dist = 1 
+Minimum distance is too large. D = 4. S1 = Garhchiroli - Chimur S2 = Gadchiroli-Chimur 
+Minimum distance is too large. D = 3. S1 = Guwahati S2 = Gauhati 
+Matched Gautam Buddha Nagar with Gautam buddh Nagar INEXACTLY with dist = 1 
+Minimum distance is too large. D = 4. S1 = Hugli S2 = Hooghly 
+Minimum distance is too large. D = 3. S1 = Haora S2 = Howrah 
+Matched Jajapur with Jajpur INEXACTLY with dist = 1 
+Matched Jhalawar - Baran with Jhalawar-Baran INEXACTLY with dist = 2 
+Matched Jhunjhunun with Jhunjhunu INEXACTLY with dist = 1 
+Matched Jaynagar with Joynagar INEXACTLY with dist = 1 
+Matched Kaisarganj with Kaiserganj INEXACTLY with dist = 1 
+Minimum distance is too large. D = 4. S1 = Karauli - Dhaulpur S2 = Karauli-Dholpur 
+Minimum distance is too large. D = 3. S1 = Kendujhar S2 = Keonjhar 
+Matched Krukshetra with Kurukshetra INEXACTLY with dist = 1 
+Minimum distance is too large. D = 4. S1 = Kanthi S2 = Kutch 
+Minimum distance is too large. D = 6. S1 = Chennai Central S2 = Madras Central 
+Minimum distance is too large. D = 6. S1 = Chennai North S2 = Madras North 
+Minimum distance is too large. D = 6. S1 = Chennai South S2 = Madras South 
+Matched Mahbubnagar with Mahabubnagar INEXACTLY with dist = 1 
+Matched Malkajgiri with Malakajagiri INEXACTLY with dist = 2 
+Matched Mandsaur with Mandsour INEXACTLY with dist = 1 
+Matched Mahesana with Mehsana INEXACTLY with dist = 2 
+Matched Nabarangapur with Nabarangpur INEXACTLY with dist = 1 
+Matched Nagappattinam with Nagapattinam INEXACTLY with dist = 1 
+Matched Nainital - Udhamsingh Nagar with Nainital-udhamsingh Nagar INEXACTLY with dist = 2 
+Minimum distance is too large. D = 4. S1 = Nagaon S2 = Nowgong 
+Matched Palamu with Palamau INEXACTLY with dist = 1 
+Minimum distance is too large. D = 3. S1 = Ranaghat S2 = Palghat 
+Matched Panch Mahals with Panchmahal INEXACTLY with dist = 2 
+Matched Pashchim Champaran with Paschim Champaran INEXACTLY with dist = 1 
+Matched Peddapalle with Peddapalli INEXACTLY with dist = 1 
+Minimum distance is too large. D = 3. S1 = Puducherry S2 = Pondicherry 
+Matched Purba Champaran with Purvi Champaran INEXACTLY with dist = 2 
+Matched Raigarh with Raigad INEXACTLY with dist = 2 
+Matched Ratnagiri - Sindhudurg with Ratnagiri-Sindhudurg INEXACTLY with dist = 2 
+Matched Sabar Kantha with Sabarkantha INEXACTLY with dist = 1 
+Minimum distance is too large. D = 3. S1 = Nagaon S2 = Saran 
+Matched Surguja with Sarguja INEXACTLY with dist = 1 
+Minimum distance is too large. D = 5. S1 = Udhampur S2 = Serampore 
+Matched Thiruvananthapuram with Thirvananthapuram INEXACTLY with dist = 1 
+Matched Tirupati with Tirupathi INEXACTLY with dist = 1 
+Matched Tonk - Sawai Madhopur with Tonk-Sawai Madhopur INEXACTLY with dist = 2 
+Minimum distance is too large. D = 3. S1 = Thrissur S2 = Trichur 
+Minimum distance is too large. D = 6. S1 = Udupi Chikmagalur S2 = UDUPI - CHIKKAMAGALORE 
+Matched Ujiapur with Ujiarpur INEXACTLY with dist = 1 
+Matched Uluberiya with Uluberia INEXACTLY with dist = 1 
+Matched Virudunagar with Virudhunagar INEXACTLY with dist = 1 
+Matched Yavatmal - Washim with Yavatmal-Washim INEXACTLY with dist = 2 
+Matched Zahirabad with Zaheerabad INEXACTLY with dist = 2 
+Minimum distance is too large. D = 6. S1 = Ghatal S2 = Grand Total 
+
+Unmatched entries in File 1
+-------------------
+Andaman & Nicobar Islands
+Kadapa
+Arunachal West
+Arunachal East
+Nagaon
+Guwahati
+Saran (Chhapra)
+Daman & Diu
+Vadodara
+Ahmadabad (East)
+Navsari
+Bharuch
+Leh (Ladakh)
+Jammu
+Srinagar
+Anantnag
+Baramula
+Udhampur
+
+Udupi Chikmagalur
+Palakkad
+Thrissur
+Outer Manipur
+Garhchiroli - Chimur
+Aurangabad
+Mizoram
+Nagaland
+Baleshwar
+Kendujhar
+Khadoor Sahib
+Puducherry
+Karauli - Dhaulpur
+Sikkim
+Tenkasi
+Kanniyakumari
+Mayiladuthurai
+Chennai South
+Chennai North
+Chennai Central
+Thoothukkudi
+Shivaganga
+Ramanathapuram
+Tehri Garhwal
+Garhwal
+Maharajganj
+Hamirpur
+Sant Ravi Das Nagar (Bhadohi)
+Darjiling
+Medinipur
+Tamluk
+Murshidabad
+Krishnanagar
+Birbhum
+Bolpur
+Barddhaman - Durgapur
+Puruliya
+Barddhaman Purba
+Bankura
+Asansol
+Ranaghat
+Bishnupur
+Jangipur
+Balurghat
+Maldah Uttar
+Kolkata Uttar
+Jhargram
+Kolkata Dakshin
+Kanthi
+Bangaon
+Koch Bihar
+Alipurduars
+Jalpaiguri
+Barakpur
+Haora
+Hugli
+Shrirampur
+Baharampur
+Maldah Dakshin
+Raiganj
+Ghatal
+Kachchh
+Lakshadweep
+
+Unmatched entries in File 2
+-------------------
+Balasore
+Baroda
+Barrackpore
+Bhadohi
+Broach
+Burdwan
+Calcutta South
+Cuddapah
+Daman And Diu
+Gadchiroli-Chimur
+Gauhati
+Hooghly
+Howrah
+Karauli-Dholpur
+Keonjhar
+Kutch
+Madras Central
+Madras North
+Madras South
+Nowgong
+Palghat
+Pondicherry
+Saran
+Serampore
+Trichur
+UDUPI - CHIKKAMAGALORE
+Grand Total
